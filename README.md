@@ -27,7 +27,6 @@ A small program which will take and input file and draw it using the mouse and a
 - Only tested in Python 3.9
 
 ## TODO
-___
 - Add command line arguments for quicker use
 - Automatically detect colours
 - Add dynamic presets which change depending on resolution
